@@ -1,4 +1,5 @@
 # Ecommerce search
+this project is build for Coding Ninjas Frontend Skill Test
 
 ## Installation
 
@@ -43,3 +44,11 @@ open [https://ecommers-search-feature.vercel.app/](https://ecommers-search-featu
 
 
 ## Screenshots
+
+* Search page
+    ![Screenshot from 2023-12-29 11-57-18](https://github.com/akashpadampalle/ecommers-search-feature/assets/45806342/468d14a7-d461-4acf-8fb5-3753734fb017)
+
+* Filters
+
+    ![Screenshot from 2023-12-29 11-57-51](https://github.com/akashpadampalle/ecommers-search-feature/assets/45806342/9539ad46-f51a-44e8-93f2-8367519d6d41)
+
